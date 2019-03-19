@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Dog
+comment0.text=\r\n\ Lav\ en\ beskrivelse\ af\ klassen\ Dog\ her.\r\n\ \r\n\ @author\ (dit\ navn\ her)\r\n\ @version\ (versions\ nummer\ eller\ dato\ her)\r\n
+comment1.params=name\ breed\ purebred\ age
+comment1.target=Dog(java.lang.String,\ java.lang.String,\ boolean,\ int)
+comment1.text=\r\n\ Konstrukt\u00F8r\ for\ objekter\ af\ klassen\ Dog\r\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=
+comment3.target=int\ getAge()
+comment4.params=
+comment4.target=boolean\ getPurebred()
+comment5.params=
+comment5.target=java.lang.String\ getBreed()
+comment6.params=other
+comment6.target=int\ compareTo(Dog)
+numComments=7
